@@ -1,7 +1,7 @@
 microservice_architecture :
 
 
-I am building small ecomerce architecture using microservices. In this we have different modules
+I am building small ecomerce architecture using microservices. In this I have different modules
 
 1. user orders
 2. shipping addreses
@@ -13,4 +13,4 @@ I am building small ecomerce architecture using microservices. In this we have d
 I will also add cascading faliure resolution 
 
 
-# will not add any testing techniques 
+### will not add any testing techniques 
