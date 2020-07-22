@@ -1,7 +1,7 @@
 microservice_architecture :
 
 
-I am building small ecomerce architecture using microservices. In this I have different modules
+I am building small e-commerce architecture using microservices. In this I have different modules
 
 1. user orders
 2. shipping addreses
